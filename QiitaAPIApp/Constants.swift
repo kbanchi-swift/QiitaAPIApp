@@ -12,8 +12,8 @@ struct Constants {
     private init() {}
     
     // ClientID and ClientSecret
-    let clientId = ""
-    let clientSecret = ""
+    let clientId = "fec6906f31e6225b7171d34439a14204e389e06b"
+    let clientSecret = "8dd17149f474aa9a6bc745c07de82d3381429186"
     
     // API URL
     let baseUrl = "https://qiita.com/api/v2"
